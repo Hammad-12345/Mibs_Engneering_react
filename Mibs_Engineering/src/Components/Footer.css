@@ -1,0 +1,63 @@
+@media screen and (min-width:768px) {
+    .row .boxes img
+    {
+        height: 470px;
+    } 
+}
+@media screen and (min-width:576px) and (max-width:768px) {
+    .row .boxes img
+    {
+      padding: 20px 40px;
+    } 
+}
+
+
+
+/* .Myswitchgear_content .row .col-4:nth-child(1)
+{
+    width: 30%;
+}
+.Myswitchgear_content .row .col-4:nth-child(2)
+{
+    width: 30%;
+}
+.Myswitchgear_content .row .col-4:nth-child(3)
+{
+    width: 38%;
+} */
+/* .Myswitchgear_content .row .col-4:nth-child(2) .category
+{
+    position: relative;
+    top:-30px;
+    padding: 0px 10px;
+    margin-top: 10px;
+} */
+/* .Myswitchgear_content .row .col-4:nth-child(2) .content_col_4
+{
+    position: relative;
+    top:-20px;
+} */
+.key 
+{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin: 0px;
+    padding: 0px;
+}
+.key li
+{
+   display: flex;
+   gap:8px
+}
+.key li span
+{
+    background-color: white;
+    color: green;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+}

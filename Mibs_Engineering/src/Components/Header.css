@@ -1,0 +1,31 @@
+@keyframes inAnimation {
+    0% {
+        transform: scaleY(0);
+    }
+    100% {
+        transform: scaleY(1);
+    }
+  }
+  
+  @keyframes outAnimation {
+    0% {
+        transform: scaleY(1)
+    }
+    100% {
+        transform: scaleY(0);
+    }
+  }
+  .logoimage
+  {
+    width:150px;
+    height:120px
+  }
+  @media screen and (min-width:768px) {
+    .logoimage
+    {
+      width:250px;
+      height:120px
+    }
+  }
+
+  
