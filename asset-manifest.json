@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Mibs_Engneering_react/static/css/main.de8b45f9.css",
+    "main.js": "/Mibs_Engneering_react/static/js/main.4bb09942.js",
+    "static/js/787.d5f55a1d.chunk.js": "/Mibs_Engneering_react/static/js/787.d5f55a1d.chunk.js",
+    "static/media/servicesimage.PNG": "/Mibs_Engneering_react/static/media/servicesimage.dc966b5b0f919bffa7dc.PNG",
+    "static/media/aboutsus.jpg": "/Mibs_Engneering_react/static/media/aboutsus.8d3499c3a649ca89b2c9.jpg",
+    "static/media/mibs3.jpeg": "/Mibs_Engneering_react/static/media/mibs3.2b45e4af517bc73ec23b.jpeg",
+    "static/media/mibs1.jpeg": "/Mibs_Engneering_react/static/media/mibs1.b9085de6bcdaa0c3312e.jpeg",
+    "static/media/mibs7.jpeg": "/Mibs_Engneering_react/static/media/mibs7.8aabe1c488ac66a84e57.jpeg",
+    "static/media/MibsEngeering.jpeg": "/Mibs_Engneering_react/static/media/MibsEngeering.b24c1c426cf8b5edfc40.jpeg",
+    "static/media/mibs4.jpeg": "/Mibs_Engneering_react/static/media/mibs4.8d7480efb56fa4533001.jpeg",
+    "static/media/Myswitchgear3.png": "/Mibs_Engneering_react/static/media/Myswitchgear3.d8e46bbebd329006fd3a.png",
+    "static/media/contactbanner.jpg": "/Mibs_Engneering_react/static/media/contactbanner.80d86fe3a3bb62e5b81d.jpg",
+    "static/media/servicesbanner.jpg": "/Mibs_Engneering_react/static/media/servicesbanner.4530fbb5e3787553993a.jpg",
+    "static/media/mibs5.jpeg": "/Mibs_Engneering_react/static/media/mibs5.2e1eba44785a1058643e.jpeg",
+    "static/media/productbackgroundImage.jpeg": "/Mibs_Engneering_react/static/media/productbackgroundImage.87efee947f7036661941.jpeg",
+    "static/media/mibs2.jpeg": "/Mibs_Engneering_react/static/media/mibs2.e342a0a4b414083f6b6c.jpeg",
+    "static/media/mibs6.jpeg": "/Mibs_Engneering_react/static/media/mibs6.8d0cd3566f4c1daa5bd8.jpeg",
+    "static/media/product1.jpeg.png": "/Mibs_Engneering_react/static/media/product1.jpeg.ff44a50b7b233abe89e1.png",
+    "static/media/Myswitchgear2.png": "/Mibs_Engneering_react/static/media/Myswitchgear2.d92c595bf9080db9607c.png",
+    "static/media/logoHeader.jpeg": "/Mibs_Engneering_react/static/media/logoHeader.0d4f6fc0ed246082efd3.jpeg",
+    "static/media/Myswitchgear1.png": "/Mibs_Engneering_react/static/media/Myswitchgear1.e537568ff54d8ed893e3.png",
+    "static/media/logo.png": "/Mibs_Engneering_react/static/media/logo.f5665481c26a95d5ade7.png",
+    "static/media/camera.png": "/Mibs_Engneering_react/static/media/camera.4c8e0a88ea6eb3b1d542.png",
+    "index.html": "/Mibs_Engneering_react/index.html",
+    "main.de8b45f9.css.map": "/Mibs_Engneering_react/static/css/main.de8b45f9.css.map",
+    "main.4bb09942.js.map": "/Mibs_Engneering_react/static/js/main.4bb09942.js.map",
+    "787.d5f55a1d.chunk.js.map": "/Mibs_Engneering_react/static/js/787.d5f55a1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8b45f9.css",
+    "static/js/main.4bb09942.js"
+  ]
+}
